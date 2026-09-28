@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Watermark & Logo Remover",
+  "description": "Free client-side tool to remove Google Gemini, Flow, and Veo AI watermarks from images and videos with mathematical reverse alpha blending and zero quality loss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
